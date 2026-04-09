@@ -1,0 +1,10 @@
+¿Cuál es el horario de atención al cliente? | Nuestro horario es de lunes a viernes de 9:00 a 18:00 y los sábados de 10:00 a 14:00.
+¿Cómo puedo restablecer mi contraseña olvidada? | Ve a la pantalla de inicio de sesión, haz clic en 'Olvidé mi contraseña' y sigue las instrucciones que recibirás por email.
+¿Cuánto tiempo tarda en llegar un pedido? | Los envíos estándar tardan entre 2 y 4 días laborables. Los envíos urgentes llegan en 24 horas.
+¿Cuáles son los métodos de pago aceptados? | Aceptamos tarjetas de crédito Visa y Mastercard, PayPal, Bizum y transferencia bancaria.
+¿Cómo puedo realizar una devolución? | Tienes 14 días para devolver un producto. Debes entrar en tu perfil, seleccionar el pedido y darle a 'Solicitar devolución'.
+¿Dónde puedo descargar la factura de mi compra? | La factura se envía automáticamente por email tras el pago, pero también puedes descargarla en el apartado 'Mis Pedidos' de tu cuenta.
+¿Ofrecéis soporte técnico telefónico? | Sí, puedes llamarnos al número gratuito 900 123 456 durante nuestro horario comercial.
+¿Cómo puedo cancelar una suscripción activa? | Puedes cancelarla en cualquier momento desde los ajustes de tu cuenta, en la sección de 'Suscripciones'.
+¿Tenéis tiendas físicas o solo venta online? | Actualmente solo vendemos a través de nuestra página web oficial, no tenemos tiendas físicas.
+¿Qué garantía tienen los productos electrónicos? | Todos nuestros productos electrónicos tienen una garantía oficial de 3 años contra defectos de fabricación.
