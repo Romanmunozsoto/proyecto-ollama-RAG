@@ -45,5 +45,6 @@ El asistente recupera con éxito la información sobre la empresa, respondiendo 
    ```bash
    py -m pip install chromadb gradio requests
 3. **Lanzamiento**: Ejecutar el script principal para iniciar la base de datos y la interfaz:
+    ```bash
     py app.py
-4. **Acceso**: Abrir en el navegador la URL local proporcionada por Gradio (normalmente http://127.0.0.1:7860).
+4. **Acceso**: Abrir en el navegador la URL local proporcionada por Gradio (normalmente `[http://127.0.0.1:7860](http://127.0.0.1:7860)`).
